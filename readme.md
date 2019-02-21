@@ -1,3 +1,3 @@
 Koh Ting Kang 20423923
 
-![screenshot]src/lab1.png
+![screenshot]/lab1.png
